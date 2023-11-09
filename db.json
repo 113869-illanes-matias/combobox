@@ -1,0 +1,56 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "provinces": [
+        {
+          "name": "California",
+          "cities": ["Los Angeles", "San Francisco", "San Diego"]
+        },
+        {
+          "name": "New York",
+          "cities": ["New York City", "Buffalo", "Rochester"]
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "provinces": [
+        {
+          "name": "Ontario",
+          "cities": ["Toronto", "Ottawa", "Hamilton"]
+        },
+        {
+          "name": "Quebec",
+          "cities": ["Montreal", "Quebec City", "Laval"]
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "provinces": [
+        {
+          "name": "New South Wales",
+          "cities": ["Sydney", "Newcastle", "Wollongong"]
+        },
+        {
+          "name": "Victoria",
+          "cities": ["Melbourne", "Geelong", "Ballarat"]
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "provinces": [
+        {
+          "name": "Buenos Aires",
+          "cities": ["Buenos Aires City", "La Plata", "Mar del Plata"]
+        },
+        {
+          "name": "Córdoba",
+          "cities": ["Córdoba City", "Villa María", "Río Cuarto"]
+        }
+      ]
+    }
+  ]
+}
